@@ -1,0 +1,2 @@
+The Dataset is available on kaggle.
+URL : https://www.kaggle.com/datasets/khalidryder777/500k-chatgpt-tweets-jan-mar-2023
